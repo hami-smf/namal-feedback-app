@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/namal-feedback-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/namal-feedback-app/static/js/main.7fd58391.chunk.js",
+    "main.js.map": "/namal-feedback-app/static/js/main.7fd58391.chunk.js.map",
+    "runtime-main.js": "/namal-feedback-app/static/js/runtime-main.4dd4dd3f.js",
+    "runtime-main.js.map": "/namal-feedback-app/static/js/runtime-main.4dd4dd3f.js.map",
+    "static/js/2.eb226b90.chunk.js": "/namal-feedback-app/static/js/2.eb226b90.chunk.js",
+    "static/js/2.eb226b90.chunk.js.map": "/namal-feedback-app/static/js/2.eb226b90.chunk.js.map",
+    "index.html": "/namal-feedback-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/namal-feedback-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.eb226b90.chunk.js.LICENSE.txt": "/namal-feedback-app/static/js/2.eb226b90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4dd4dd3f.js",
+    "static/js/2.eb226b90.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.7fd58391.chunk.js"
+  ]
+}
